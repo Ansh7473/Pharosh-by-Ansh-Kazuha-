@@ -74,7 +74,7 @@ Before using the bot, make sure you have:
 ```bash
 # 1. Clone the repo
 git clone https://github.com/Ansh7473/Pharosh-by-Ansh-Kazuha-.git
-cd Pharos-Auto-Bot
+cd Pharosh-by-Ansh-Kazuha-
 ```
 # 2. Install dependencies
 ```
